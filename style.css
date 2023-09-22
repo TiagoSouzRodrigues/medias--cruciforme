@@ -1,5 +1,4 @@
- 
-@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500;800&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500;800&display=swap');
 
 *{
   margin: 0;
@@ -38,7 +37,8 @@ main{
   width: 120px;
   height: 120px;
   border: none;
-  border-radius: 60px;
+  object-fit: cover;
+  border-radius: 55px;
 }
 
 .socials{
@@ -61,6 +61,7 @@ a{
   width: 260px;
   height: 55px;
   gap: 20px;
+  object-fit:cover;
   text-decoration: none;
   color: #251e18;
   
