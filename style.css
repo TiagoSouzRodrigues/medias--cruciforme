@@ -22,8 +22,8 @@ main{
   display: flex;
   flex-direction: column;
   min-height: 90vh;
-  margin: 20px;
-  border-radius: 16px;
+  margin: 0 20px;
+  
 }
 
 .img{
