@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500;800&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Exo 2', sans-serif;
+}
+
+body{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content:center ;
+
+  background-color: #76777c;
+}
+
+main{
+  background-color: #121a35;
+  display: flex;
+  flex-direction: column;
+  min-height: 90vh;
+  margin: 20px;
+  border-radius: 16px;
+}
+
+.img{
+  margin: 40px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: -20px;  
+
+}
+
+.logo-cruciforme{
+  width: 120px;
+  height: 120px;
+  border: none;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.socials{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  margin: 50px;
+}
+
+a{
+  margin: 20px;
+  background-color: #e2e2e2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 50px;
+  width: 160px;
+  gap: 20px;
+
+  text-decoration: none;
+  color: #251e18;
+  
+}
+
+img{
+  width: 35px;
+  height: 21.5px;
+  border-right:  2px solid gray;
+  padding-right: 0.6rem;
+
+}
+
+
