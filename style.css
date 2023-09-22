@@ -1,4 +1,4 @@
-
+ 
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500;800&display=swap');
 
 *{
@@ -39,7 +39,7 @@ main{
   height: 120px;
   border: none;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 55px;
 }
 
 .socials{
@@ -59,10 +59,10 @@ a{
   justify-content: center;
   padding: 10px;
   border-radius: 50px;
-  width: 220px;
-  height: 50px;
+  width: 260px;
+  height: 55px;
   gap: 20px;
-
+  object-fit:cover;
   text-decoration: none;
   color: #251e18;
   
@@ -73,6 +73,7 @@ img{
   height: 21.5px;
   border-right:  2px solid gray;
   padding-right: 0.6rem;
+  
 
 }
 
