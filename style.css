@@ -26,7 +26,8 @@ main{
   flex-direction: column;
   min-width: 480px;
   min-height: 90vh;
-  
+  overflow-x: hidden;
+
 }
 
 .img{
