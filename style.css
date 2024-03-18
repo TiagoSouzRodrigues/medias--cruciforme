@@ -15,7 +15,8 @@ body{
 
   background-color: #003247;
   overflow-x: hidden;
- flex-direction: column;
+  flex-direction: column;
+  min-width: 560px;
 
 }
 
