@@ -18,6 +18,8 @@ body{
   flex-direction: column;
   min-width: 560px;
 
+  margin-bottom: 20px;
+
 }
 
 
@@ -73,4 +75,9 @@ a{
   position: relative;
   right: 110px;
   top:48px;
+}
+
+p{
+  color: white;
+  padding-top: 20px;
 }
